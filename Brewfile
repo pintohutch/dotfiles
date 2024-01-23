@@ -1,5 +1,6 @@
 tap 'homebrew/cask'
 
+brew 'gcc'
 brew 'go'
 brew 'htop'
 brew 'jq'
@@ -8,8 +9,8 @@ brew 'terraform'
 brew 'the_silver_searcher'
 brew 'watch'
 brew 'tree'
+brew 'vim'
 
 cask 'docker'
-cask 'google-chrome'
 cask 'google-cloud-sdk'
 cask 'iterm2'
