@@ -1,5 +1,6 @@
 tap 'homebrew/cask'
 
+brew 'docker'
 brew 'gcc'
 brew 'go'
 brew 'htop'
@@ -11,6 +12,5 @@ brew 'watch'
 brew 'tree'
 brew 'vim'
 
-cask 'docker'
 cask 'google-cloud-sdk'
 cask 'iterm2'
