@@ -1,8 +1,8 @@
 tap 'homebrew/cask'
 
-brew 'docker'
 brew 'gcc'
 brew 'go'
+brew 'kind'
 brew 'htop'
 brew 'jq'
 brew 'kubectl'
@@ -11,6 +11,7 @@ brew 'the_silver_searcher'
 brew 'watch'
 brew 'tree'
 brew 'vim'
+brew 'yq'
 
 cask 'google-cloud-sdk'
 cask 'iterm2'
